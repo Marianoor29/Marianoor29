@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Noor</h1>
 <h3 align="center">Web & Mobile App Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/737e00b2-117d-11ee-80c6-7f0d3edcadcc/VTcjcMtU5u.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianoor29&label=Profile%20views&color=0e75b6&style=flat" alt="marianoor29" /> </p>
 
 - 🔭 I’m currently working on **React & React native Projects**
