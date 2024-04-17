@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React & React native Projects**
 
-- 🌱 I’m currently learning **to innovate further 👩‍💻**
+- 🌱 I’m currently learning **typeScript & tailwind 👩‍💻**
 
 - 👯 I’m looking to collaborate on **Web & mobile app development projects**
 
