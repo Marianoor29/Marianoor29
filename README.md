@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **React & React native Projects**
 
-- 🌱 I’m currently learning **backend & mongoDB 👩‍💻**
+- 🌱 I’m a full stack developer and CTO of OfferBoat Partners LLC 👩‍💻**
 
 - 👯 I’m looking to collaborate on **Web & mobile app development projects**
-
-- 🤝 I’m looking for help with **Web & Mobile App Developer Seeking Opportunity**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/maria-n-707260104/](https://www.linkedin.com/in/maria-n-707260104/)
 
