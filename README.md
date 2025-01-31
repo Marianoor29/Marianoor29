@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React & React native Projects**
 
-- 🌱 I’m a full stack developer and CTO of OfferBoat Partners LLC 👩‍💻**
+- 🌱 I’m a full stack developer 👩‍💻**
 
 - 👯 I’m looking to collaborate on **Web & mobile app development projects**
 
